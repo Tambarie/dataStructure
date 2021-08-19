@@ -33,6 +33,8 @@ type Customer struct {
 	log *Log
 }
 
+
+
 func main() {
 	e := new(Customer)
 	e.Name = "Barack Obama"
